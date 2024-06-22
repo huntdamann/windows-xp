@@ -1,11 +1,11 @@
 # windows-xp
 Windows XP Theme for Jekyll
 
-# Windows 95 Theme for Jekyll
+# Windows XP Theme for Jekyll Figma Design
 
+![figma_sketch]()
 
-
-Homepage: 
+Homepage: Coming Soon!
 
 Demo: Coming Soon!
 
