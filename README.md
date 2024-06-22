@@ -3,7 +3,7 @@ Windows XP Theme for Jekyll
 
 # Windows XP Theme for Jekyll Figma Design
 
-![figma_sketch]()
+![figma_sketch](https://github.com/huntdamann/windows-xp/Figma_Design.png)
 
 Homepage: Coming Soon!
 
